@@ -16,3 +16,5 @@ Comprised of 3 folders and 1 notebook
 3. images folder contains the plots of training loss and validation loss obtained while doing hyperparameter search. 
 
 4. cnn_final.ipynb is a jupyter notebook that contains all the codes including hyperparameter searching, cnn model architecture, train, validate and testing and lastly, a visualisation on the accuracy of model. 
+
+5. python_script_folder --> currently working on converting codes to python scripts so that it can be used via command line. 
