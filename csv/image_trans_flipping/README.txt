@@ -1,0 +1,1 @@
+Use the lr = 1e-5, p=20 from learning rate tuning for the updated one instead of this p20 file. This p20 file in here is only lr=1e-3}
