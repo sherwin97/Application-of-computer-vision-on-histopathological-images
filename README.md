@@ -1,4 +1,4 @@
-# Implementation-of-CNN-on-histopathological-images
+# CM4044 Mini Project 1
 
 A mini project for CM4044-AI for Chemistry. This is a graded assignment for NTU CBC course CM4044.
 
